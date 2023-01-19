@@ -1,0 +1,14 @@
+{
+  "name": "just-redux",
+  "version": "1.0.0",
+  "description": "Using just redux in Node JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Umair Syed",
+  "license": "ISC",
+  "dependencies": {
+    "redux": "^4.2.0"
+  }
+}
